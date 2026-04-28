@@ -1,0 +1,55 @@
+cff-version: 1.2.0
+title: Enterprise Identity Readiness Assessment
+message: >-
+  If you use this assessment in research, advisory work, or institutional
+  reporting, please cite it using the metadata below.
+type: software
+authors:
+  - given-names: Anna
+    family-names: Jibgashvili
+    affiliation: Foundational Data Products™
+    website: 'https://foundationaldataproducts.com'
+identifiers:
+  - type: url
+    value: 'https://github.com/AnnaJibga/enterprise-identity-readiness-assessment'
+    description: GitHub repository
+  - type: url
+    value: 'https://foundationaldataproducts.com'
+    description: Methodology home
+repository-code: 'https://github.com/AnnaJibga/enterprise-identity-readiness-assessment'
+url: 'https://foundationaldataproducts.com'
+abstract: >-
+  A weighted self-diagnostic that surfaces structural ambiguities in how
+  an enterprise articulates its institutional logic — trade-offs, decision
+  boundaries, codified meaning, ownership, governance, and delegation
+  readiness — before AI systems are asked to operate against that logic.
+  The assessment scores six dimensions on a 100-point scale and maps
+  results to four diagnostic bands (Ready, Progressing, At Risk, Urgent)
+  with band-specific institutional risk guidance. The assessment is the
+  diagnostic instrument for the first stage of the DSIL™ framework and
+  forms part of the Foundational Data Products™ methodology.
+keywords:
+  - enterprise AI
+  - institutional logic
+  - AI readiness
+  - data governance
+  - DSIL
+  - Foundational Data Products
+  - AI accountability
+  - decision rights
+  - semantic governance
+  - AI risk assessment
+license: CC-BY-NC-ND-4.0
+version: '1.0'
+date-released: '2026-04-28'
+preferred-citation:
+  type: software
+  title: Enterprise Identity Readiness Assessment
+  authors:
+    - given-names: Anna
+      family-names: Jibgashvili
+  version: '1.0'
+  year: 2026
+  url: 'https://github.com/AnnaJibga/enterprise-identity-readiness-assessment'
+  publisher:
+    name: Foundational Data Products™
