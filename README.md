@@ -2,7 +2,7 @@
 
 *A diagnostic framework for institutional logic articulation, by [Anna Jibgashvili](https://www.linkedin.com/in/annajibgashvili/).*
 
-*Part of the [Foundational Data Products™](https://foundationaldataproducts.com) methodology and the DSIL™ framework.*
+*Part of the [Foundational Data Products™](https://foundationaldataproducts.com) methodology and the DSIL™ framework, for [foundeon.com](https://foundeon.com).*
 
 ---
 
@@ -65,7 +65,7 @@ This assessment is the diagnostic instrument for the first stage of the DSIL™ 
 
 The remaining four DSIL™ stages — Stabilize Identity, Enable Intelligence, Enforce Judgment, and Preserve Intent at Scale — operate on the foundation this assessment helps establish.
 
-For the methodology overview, see [foundationaldataproducts.com](https://foundationaldataproducts.com).
+For the methodology overview, see [foundeon.com](https://foundeon.com).
 
 ## What this assessment is not
 
@@ -80,7 +80,7 @@ A formal citation file is provided ([CITATION.cff](./CITATION.cff)). GitHub rend
 
 Suggested citation:
 
-> Jibgashvili, A. (2026). *Enterprise Identity Readiness Assessment* (v1.0). Foundational Data Products™. https://foundationaldataproducts.com
+> Jibgashvili, A. (2026). *Enterprise Identity Readiness Assessment* (v1.0). Foundational Data Products™. https://foundationaldataproducts.com or https://foundeon.com
 
 ## License
 
@@ -90,13 +90,20 @@ In plain language: you may share this assessment with attribution. You may not u
 
 ## Canonical references
 
-- **Methodology home:** [foundationaldataproducts.com](https://foundationaldataproducts.com)
-- **Methodology writing:** [The Enterprise Identity Imperative on Substack](https://foundationaldataproducts.substack.com)
+- **Methodology home:** [foundeon.com](https://foundeon.com)
+- **Methodology writing:** [The Enterprise Identity Imperative on Substack]([https://annajibgashvili.substack.com/p/the-institutional-logic-gap)]
 - **Author:** [Anna Jibgashvili on LinkedIn](https://www.linkedin.com/in/annajibgashvili/)
 
+## Related Foundeon Frameworks
+
+The Enterprise Identity Readiness Assessment (EIRA) is used as the readiness input for the Workflow Disposition Framework (WDF™).
+
+WDF™ helps sequence AI-candidate workflows into Manual, Hybrid, or Automated dispositions based on impact, consequence, and the lowest relevant EIRA readiness dimension.
+
+Related repository: https://github.com/AnnaJibga/workflow-disposition-framework
 ## Contact
 
-For consultation on digitalizing institutional logic, applying the DSIL™ framework, or commercial licensing of this assessment: `anna@foundationaldataproducts.com`
+For consultation on digitalizing institutional logic, applying the DSIL™ framework, or commercial licensing of this assessment: `anna@foundeon.com`
 
 ---
 
