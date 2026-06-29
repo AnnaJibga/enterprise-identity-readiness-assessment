@@ -132,4 +132,4 @@ For consultation on interpreting results or developing an articulation roadmap, 
 
 ---
 
-*© 2026 Anna Jibgashvili | Foundational Data Products™ | DSIL™*
+*© 2026 Anna Jibgashvili | Foundational Data Products | DSIL™*
