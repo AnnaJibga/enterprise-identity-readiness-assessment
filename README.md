@@ -2,7 +2,7 @@
 
 *A diagnostic framework for institutional logic articulation, by [Anna Jibgashvili](https://www.linkedin.com/in/annajibgashvili/).*
 
-*Part of the [Foundational Data Products™](https://foundationaldataproducts.com) methodology and the DSIL™ framework, for [foundeon.com](https://foundeon.com).*
+*Part of the [Foundational Data Products](https://foundationaldataproducts.com) methodology and the DSIL™ framework, for [foundeon.com](https://foundeon.com).*
 
 ---
 
