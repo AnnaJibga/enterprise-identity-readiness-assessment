@@ -6,9 +6,9 @@
 
 ## Origin
 
-This assessment was developed by [Anna Jibgashvili](https://www.linkedin.com/in/annajibgashvili/) as the diagnostic instrument for the first stage of the DSIL™ framework. It exists because most enterprises preparing to deploy AI cannot honestly answer the question: *"Do we have the institutional articulation that AI requires to execute our logic faithfully?"*
+This assessment was developed by [Anna Jibgashvili](https://www.linkedin.com/in/annajibgashvili/) as the diagnostic entry point to the DSIL™ framework. It exists because most enterprises preparing to deploy AI cannot honestly answer the question: *"Do we have the institutional articulation that AI requires to execute our logic faithfully?"*
 
-The assessment was developed iteratively across enterprise data and AI strategy work in financial services and insurance. Its dimensions, weights, and bands reflect patterns observed in regulated, large-scale institutions.
+The assessment was developed iteratively across enterprise data and AI strategy work in financial services and insurance. Its dimensions, weights, and segments reflect patterns observed in regulated, large-scale institutions.
 
 ## What this assessment is for
 
@@ -30,13 +30,13 @@ The assessment was developed iteratively across enterprise data and AI strategy 
 
 The assessment is most useful when these assumptions hold. If they do not, results may mislead.
 
-**Assumption 1: Institutional self-honesty.** Self-flattering scores produce useless output. The assessment depends on the scorer being willing to give a 1 or a 2 where a 1 or a 2 is honest. Organizations that score themselves through a marketing lens — "we should be at least a 4 on this" — render the diagnostic worthless.
+**Assumption 1: Institutional self-honesty.** Self-flattering scores produce useless output. The assessment depends on the scorer being willing to give a 1 or a 2 where a 1 or a 2 is honest. Organizations that score themselves through a marketing lens, reaching for "we should be at least a 4 on this," render the diagnostic worthless.
 
 **Assumption 2: Leadership willing to engage.** The assessment surfaces gaps that require senior leadership to address. If results will be filed away rather than discussed, the assessment is not the right instrument.
 
-**Assumption 3: Willingness to act on the prescription.** The assessment names what to fix and in what order. If structural conditions prevent foundational work — for example, trade-off articulation requires CEO-level engagement that is not available — the assessment will surface a gap that the organization is not positioned to close.
+**Assumption 3: Willingness to act on the prescription.** The assessment names what to fix and in what order. Where structural conditions prevent foundational work, for example when trade-off articulation requires CEO-level engagement that is not available, the assessment will surface a gap that the organization is not positioned to close.
 
-**Assumption 4: A scope decision has been made.** The assessment is most useful when run at the institutional level (the enterprise as a whole) rather than at a unit or function level. Running it on a single business unit produces a unit-level diagnosis that may obscure the institutional picture.
+**Assumption 4: A scope decision has been made.** The assessment reads institutional articulation, so it is run at the institutional level, with the enterprise as a whole in scope. That institutional read then applies to whichever domain, function, or workflow population is under examination, because institutional articulation does not change with the scope of the question being asked. Running the assessment on a single business unit produces a unit-level diagnosis that may obscure the institutional picture, and should be labeled as such.
 
 ## Positioning relative to other readiness frameworks
 
@@ -57,11 +57,11 @@ Both questions matter. This assessment addresses the second.
 
 The assessment rests on three structural arguments, each of which is developed in published writing on the methodology:
 
-**1. AI inherits institutional logic; it does not invent it.** When the institution has not articulated its logic, AI fills the gap with whatever priors are available — typically vendor defaults or training-data patterns. This is the *Three Paths* argument, in which Path 3 (Sovereign Identity) requires articulation as the precondition for sovereignty.
+**1. AI inherits institutional logic; it does not invent it.** When the institution has not articulated its logic, AI fills the gap with whatever priors are available, typically vendor defaults or training-data patterns. This is the *Three Paths* argument, in which Path 3 (Sovereign Identity) requires articulation as the precondition for sovereignty.
 
-**2. Articulation has a structural ordering.** Trade-offs, decision boundaries, and codified logic are foundational. Ownership, governance, and delegation discipline are operational. Operational layers built on weak foundational layers produce inconsistent enforcement, not consistent enforcement. This is the basis for the assessment's weighted structure.
+**2. Articulation has a structural ordering.** Trade-offs, decision boundaries, and digitalized logic are foundational. Ownership, governance, and delegation discipline are operational. Operational layers built on weak foundational layers produce inconsistent enforcement, not consistent enforcement. This is the basis for the assessment's weighted structure.
 
-**3. Once AI hardens around defaults, retrofit becomes structurally difficult.** AI deployment that proceeds without institutional articulation creates technical debt of an unusual kind: the defaults become institutional. This argues for sequencing — articulation first, deployment second — rather than parallel work.
+**3. Once AI hardens around defaults, retrofit becomes structurally difficult.** AI deployment that proceeds without institutional articulation creates technical debt of an unusual kind: the defaults become institutional. This argues for sequencing, articulation first and deployment second, rather than parallel work.
 
 For deeper development of these arguments, see [the Enterprise Identity Imperative series on Substack](https://foundationaldataproducts.substack.com).
 
@@ -85,12 +85,12 @@ It may not be:
 - Modified or redistributed in modified form
 - Repackaged under different branding
 
-For commercial licensing, embedded use in commercial offerings, or consultation on applying the assessment in your organization, contact `anna@foundationaldataproducts.com`.
+For commercial licensing, embedded use in commercial offerings, or consultation on applying the assessment in your organization, contact `anna@foundeon.com`.
 
 ## Feedback
 
-This assessment will evolve. Feedback from organizations that have run it — especially feedback on dimensions that proved more or less useful than expected, or on band thresholds that proved too lenient or too strict — is welcome. Feedback channel: `anna@foundationaldataproducts.com`.
+This assessment will evolve. Feedback from organizations that have run it is welcome, especially on dimensions that proved more or less useful than expected, or on segment thresholds that proved too lenient or too strict. Feedback channel: `anna@foundeon.com`.
 
 ---
 
-*© 2026 Anna Jibgashvili | Foundational Data Products™ | DSIL™*
+*© 2026 Anna Jibgashvili | Foundeon | DSIL™*
