@@ -38,7 +38,7 @@ The assessment evaluates six dimensions of institutional readiness:
 
 2. **Decision Boundary Definition** — whether the organization has documented criteria for what AI should automate versus where human oversight is required, with consistent escalation thresholds.
 
-3. **Institutional Logic Codification** — whether the organization's "way of doing things" is documented in machine-actionable formats, and whether domain concepts have consistent definitions across systems.
+3. **Institutional Logic Digitalization** — whether the organization's "way of doing things" is documented in machine-actionable formats, and whether domain concepts have consistent definitions across systems.
 
 4. **Ownership & Accountability Clarity** — whether decision rights and data ownership are explicit enough that AI systems know which authority governs which domain.
 
@@ -46,24 +46,22 @@ The assessment evaluates six dimensions of institutional readiness:
 
 6. **Delegation Preparedness** — whether the organization articulates what success means beyond efficiency metrics before deploying AI in a workflow.
 
-The dimensions are weighted. Trade-Off Articulation, Decision Boundary Definition, and Institutional Logic Codification each carry the highest weight, reflecting that these three are foundational — without them, the others cannot operate. Detailed weighting rationale is in [SCORING_METHODOLOGY.md](./SCORING_METHODOLOGY.md).
+The dimensions are weighted. Trade-Off Articulation, Decision Boundary Definition, and Institutional Logic Digitalization each carry the highest weight, reflecting that these three are foundational — without them, the others cannot operate. Detailed weighting rationale is in [SCORING_METHODOLOGY.md](./SCORING_METHODOLOGY.md).
 
 ## Score interpretation
 
-| Score Range | Band | Diagnosis |
+| Score Range | Segment | Diagnosis |
 |---|---|---|
-| 80–100 | **READY** | Strong institutional identity foundation. Focus on maintaining clarity as AI scales. |
-| 60–79 | **PROGRESSING** | Key elements in place, but critical gaps remain. Prioritize trade-off articulation and decision boundaries. |
-| 40–59 | **AT RISK** | Significant structural ambiguity. AI delegation without articulation will likely result in convergence. |
-| 0–39 | **URGENT** | Institutional logic largely tacit. Immediate action required before AI systems harden around defaults. |
+| 80–100 | **READY** | Institutional logic is articulated clearly enough to delegate decisions to AI. The work ahead is maintaining that clarity as AI scales.|
+| 60–79 | **PROGRESSING** | Key elements are in place. Trade-off articulation and decision boundaries are where the remaining gaps close fastest.|
+| 40–59 | **Emerging** | Significant structural ambiguity. AI delegation without articulation will likely result in convergence. |
+| 0–39 | **Foundational** | Foundations are forming. How the enterprise articulates trade-offs, decision boundaries, and institutional logic will determine what AI inherits.|
 
 A worked example showing what a completed assessment produces is available in [EXAMPLE_OUTPUT.md](./EXAMPLE_OUTPUT.md).
 
 ## Where this sits in the methodology
 
-This assessment is the diagnostic instrument for the first stage of the DSIL™ framework: **Manufacture Context**. Before institutional identity can be stabilized, the enterprise must first see honestly what it has articulated and what remains tacit. This assessment surfaces that picture.
-
-The remaining four DSIL™ stages — Stabilize Identity, Enable Intelligence, Enforce Judgment, and Preserve Intent at Scale — operate on the foundation this assessment helps establish.
+This assessment is the diagnostic entry point to the DSIL™ framework. Digital Substrate Identity Layer / DSIL™ is Foundeon's proprietary method for making enterprise meaning, policy context, decision rights, governance expectations, and accountability explicit before AI systems consume them. Before that substrate can be defined, the enterprise needs an honest view of what it has already articulated and what remains tacit. This assessment produces that view.
 
 For the methodology overview, see [foundeon.com](https://foundeon.com).
 
@@ -80,7 +78,7 @@ A formal citation file is provided ([CITATION.cff](./CITATION.cff)). GitHub rend
 
 Suggested citation:
 
-> Jibgashvili, A. (2026). *Enterprise Identity Readiness Assessment* (v1.0). Foundational Data Products™. https://foundationaldataproducts.com or https://foundeon.com
+> Jibgashvili, A. (2026). *Enterprise Identity Readiness Assessment* (v1.0). Foundational Data Products™. https://foundeon.com
 
 ## License
 
