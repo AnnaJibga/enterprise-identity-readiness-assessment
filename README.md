@@ -100,9 +100,9 @@ In plain language: you may share this assessment with attribution. You may not u
 
 The Enterprise Identity Readiness Assessment (EIRA) is used as the readiness input for the Workflow Disposition Framework (WDF™).
 
-WDF™ sequences AI-candidate workflows into Manual, Hybrid, or Automated dispositions based on impact, consequence, and the lowest relevant EIRA readiness dimension.
+WDF™ sequences AI-candidate workflows into Manual, Hybrid, or Automated dispositions based on impact, consequence, and the lowest relevant EIRA readiness dimension. It is applied within a Foundeon advisory engagement.
 
-Related repository: <https://github.com/AnnaJibga/workflow-disposition-framework>
+For more, see [foundeon.com](https://foundeon.com).
 
 ## Contact
 
