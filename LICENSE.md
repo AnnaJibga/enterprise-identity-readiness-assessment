@@ -11,7 +11,7 @@ The Enterprise Identity Readiness Assessment, including the Excel workbook and a
 You are free to:
 
 - **Share.** Copy and redistribute the assessment in any medium or format.
-- **Use.** Apply the assessment internally within your organization for diagnostic and educational purposes.
+- **Use.** Apply the assessment internally within your organization, including a commercial organization, as described under Additional permission below.
 
 Under the following terms:
 
@@ -22,6 +22,10 @@ Under the following terms:
 - **NoDerivatives.** If you remix, transform, adapt, or build upon the material, you may not distribute the modified material. This includes producing a derivative or inspired-by assessment with similar dimensions, structure, or scoring methodology. You may use the assessment internally as-is and discuss its results, and you may not produce or distribute a modified version.
 
 - **No additional restrictions.** You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+
+## Additional permission
+
+In addition to the rights granted under CC BY-NC-ND 4.0, Anna Jibgashvili grants every organization, including commercial organizations, permission to use this assessment for the organization's own internal operations. This permission does not extend to redistributing modified versions, reselling the assessment, embedding it in a commercial product, or using it to deliver paid services to others. Those uses require a separate license from <anna@foundeon.com>.
 
 ## Notices
 

@@ -75,7 +75,7 @@ Version history is maintained in [CHANGELOG.md](./CHANGELOG.md).
 
 Under the [CC BY-NC-ND 4.0 license](./LICENSE), the assessment may be:
 
-- Downloaded and run by any organization for internal use
+- Downloaded and run by any organization, including commercial organizations, for its own internal operations (see the additional permission in [LICENSE.md](./LICENSE.md))
 - Cited and referenced in academic, professional, and commercial contexts with attribution
 - Shared with attribution and without modification
 

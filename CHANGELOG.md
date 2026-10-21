@@ -6,6 +6,14 @@ This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.htm
 
 ---
 
+## [1.1.1] - 2026-10-21
+
+### Added
+
+- **Additional permission (LICENSE.md).** Any organization, including a commercial organization, may use the assessment for its own internal operations. Redistributing modified versions, resale, embedding in a commercial product, and paid services to others still require a separate license. README.md and ABOUT.md updated to match.
+
+---
+
 ## [1.1.0] — 2026-08-13
 
 Naming and canonical-reference alignment. No change to dimensions, statements, weights, score ranges, or scoring logic. Scores produced under v1.0 remain valid and comparable.

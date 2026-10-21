@@ -85,7 +85,7 @@ Suggested citation:
 
 ## License
 
-This work is licensed under [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)](./LICENSE.md).
+This work is licensed under [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)](./LICENSE.md). Any organization, including a commercial one, may use it for its own internal operations, as set out in the additional permission in [LICENSE.md](./LICENSE.md).
 
 In plain language: you may share this assessment with attribution. You may not use it for commercial purposes without permission. You may not modify or redistribute modified versions. For commercial licensing or consulting engagement, contact `anna@foundeon.com`.
 
